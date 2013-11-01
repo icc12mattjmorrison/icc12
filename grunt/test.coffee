@@ -5,5 +5,6 @@ module.exports = (grunt) ->
     'emberhandlebars'
     'concat'
     'karma'
+    'coveralls'
     'coffeelint'
   ]
