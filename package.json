@@ -12,7 +12,8 @@
         "grunt-contrib-concat": "*",
         "grunt-coffeelint": "*",
         "karma-coverage": "*",
-        "grunt-karma-coveralls": "*"
+        "grunt-karma-coveralls": "*",
+        "grunt-recess": "*"
     },
     "scripts": {
         "postinstall": "bower install"
