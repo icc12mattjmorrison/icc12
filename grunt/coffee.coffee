@@ -7,5 +7,6 @@ module.exports =
         'src/*.coffee'
       ]
       'build/tests/tests.js': [
+        'tests/helper.coffee'
         'tests/*tests.coffee'
       ]
