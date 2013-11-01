@@ -1,0 +1,11 @@
+{
+    "name": "icc12",
+    "dependencies": {
+        "load-grunt-config": "*",
+        "grunt-cli": "*",
+        "grunt-karma": "*",
+        "karma-qunit": "*",
+        "karma-phantomjs-launcher": "*",
+        "grunt-contrib-coffee": "*"
+    }
+}
