@@ -1,7 +1,0 @@
-{
-    "name": "icc",
-    "dependencies": {
-        "ember": "1.0.0",
-        "bootstrap": "*"
-    }
-}
