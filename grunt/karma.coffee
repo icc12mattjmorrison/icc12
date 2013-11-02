@@ -1,6 +1,6 @@
-module.exports = {
-    unit: {
-        options: {
+module.exports =
+    unit:
+        options:
             basePath: '.',
             frameworks: ['qunit'],
             colors: true,
@@ -9,8 +9,6 @@ module.exports = {
             reporters: ['progress'],
             browsers: ['PhantomJS'],
             files: [
-                'tests/*.js'
+                'build/app/*.js'
+                'build/tests/*.js'
             ]
-        }
-    }
-};
