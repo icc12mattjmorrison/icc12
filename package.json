@@ -1,0 +1,14 @@
+{
+    "name": "icc12",
+    "description": "icc12",
+    "repository": {
+        "type": "git"
+    },
+    "dependencies": {
+        "load-grunt-config": "*",
+        "grunt-cli": "*",
+        "grunt-karma": "*",
+        "karma-qunit": "*",
+        "karma-phantomjs-launcher": "*"
+    }
+}
