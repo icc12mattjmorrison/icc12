@@ -13,7 +13,9 @@
         "grunt-contrib-coffee": "*",
         "bower": "*",
         "grunt-ember-template-compiler": "*",
-        "grunt-coffeelint": "*"
+        "grunt-coffeelint": "*",
+        "karma-coverage": "*",
+        "grunt-karma-coveralls": "*"
     },
     "scripts": {
         "postinstall": "bower install"
