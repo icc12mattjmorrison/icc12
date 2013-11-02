@@ -6,4 +6,5 @@ module.exports = (grunt) ->
     'recess'
     'karma'
     'coffeelint'
+    'coveralls'
   ]

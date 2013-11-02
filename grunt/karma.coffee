@@ -18,7 +18,7 @@ module.exports =
       preprocessors:
         "build/app/*.js": "coverage"
       coverageReporter:
-        type: "text"
+        type: "lcov"
         dir: 'coverage/'
       plugins: [
         'karma-qunit'
